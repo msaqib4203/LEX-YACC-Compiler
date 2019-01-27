@@ -1,0 +1,8 @@
+do
+{
+a=a+1;
+b=b+z;
+a=a+b;
+b=b*c+1;
+}while(A>B);
+
